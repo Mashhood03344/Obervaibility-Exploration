@@ -41,7 +41,7 @@ Here's an amazing definition of observability that is on Reddit:
 
 Observability gives engineers a proactive approach to analyze and optimize their systems based on the data it generates. Observability platforms provide a centralized way to collect, store, analyze, and visualize logs, metrics, and traces to provide a connected real-time view of all the operational data in your software system, as well as the flexibility to ask questions about your applications and infrastructure to understand system behavior and get to the answers you need to improve system performance.
 
-![definition](images/observaibility-definition.png)
+![definition](Images/observaibility-definition.png)
 
 
 ## What is the Importance of Observability? Why Do You Need It?
@@ -82,7 +82,7 @@ So, monitoring is about detection, while observability is s understanding the sy
 
 Implementing on-premise or cloud observability doesn't have to be difficult, despite how complicated it may appear. Start by focusing on the following three crucial pillars that make observability successful:
 
-![pillars](images/pillars-of-observability.png)
+![pillars](Images/pillars-of-observability.png)
 
 
 ### Logs
@@ -110,7 +110,7 @@ Since Tracing enables you to determine the true cause of each problem and define
 Apart from the pillars, you must also develop a set of apps and tools that can gather the telemetry data in the form of logs, metrics, or traces in order to make your IT systems observable.
 In every ecosystem, you can typically implement observability software by combining these four elements:
 
-![components](images/components-of-observaibility.png)
+![components](Images/components-of-observaibility.png)
 
 ### Open Instrumentation
 
@@ -132,7 +132,7 @@ Accelerating incident response is necessary if you want to ensure that your depl
 
 You mean apart from gaining quick and easy access to data that simply shows how your system is operating? Not a problem! Here are some more reasons for you to adopt enterprise observability;
 
-![benefits](images/benefits.png)
+![benefits](Images/benefits.png)
 
 ### Reliable and Faster Development
 
